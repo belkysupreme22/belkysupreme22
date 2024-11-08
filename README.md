@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**belkysupreme22/belkysupreme22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** with expertise in building scalable and user-friendly web applications. I specialize in technologies like **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Spring Boot**, and **Java**. I'm passionate about clean, efficient code and always eager to collaborate and learn new technologies.
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
+- 💬 Ask me about **full-stack development**, **API design**, or **cloud computing**.
+- 📫 How to reach me: [Email](mailto:beamlaktatek@gmail.com)
+- ⚡ Fun fact: I love experimenting with **image processing** and **machine learning** projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Frontend**:
+  - ![React](https://img.shields.io/badge/-React-blue)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-orange)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+  - ![Redux](https://img.shields.io/badge/-Redux-purple)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-black)
+  - ![React Native](https://img.shields.io/badge/-React%20Native-blue)
+
+- **Backend**:
+  - ![Node.js](https://img.shields.io/badge/-Node.js-green)
+  - ![Express](https://img.shields.io/badge/-Express-yellow)
+  - ![Python](https://img.shields.io/badge/-Python-blue)
+  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
+  - ![Java](https://img.shields.io/badge/-Java-red)
+
+- **Database**:
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
+- **Version Control**:
+  - ![Git](https://img.shields.io/badge/-Git-orange)
+  - ![GitHub](https://img.shields.io/badge/-GitHub-black)
+
+- **APIs**:
+  - ![REST](https://img.shields.io/badge/-REST-red)
+
+- **Security**:
+  - ![JWT](https://img.shields.io/badge/-JWT-yellow)
+

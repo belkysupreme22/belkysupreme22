@@ -3,7 +3,7 @@
 I'm a **Full-Stack Developer** with expertise in building scalable and user-friendly web applications. I specialize in technologies like **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Spring Boot**, and **Java**. I'm passionate about clean, efficient code and always eager to collaborate and learn new technologies.
 
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
-- 💬 Ask me about **full-stack development**, **API design**, or **cloud computing**.
+- 💬 Ask me about **full-stack development**, **API design**
 - 📫 How to reach me: [Email](mailto:beamlaktatek@gmail.com)
 - ⚡ Fun fact: I love experimenting with **image processing** and **machine learning** projects.
 
@@ -14,8 +14,6 @@ I'm a **Full-Stack Developer** with expertise in building scalable and user-frie
   - ![HTML5](https://img.shields.io/badge/-HTML5-orange)
   - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![Redux](https://img.shields.io/badge/-Redux-purple)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-black)
   - ![React Native](https://img.shields.io/badge/-React%20Native-blue)
 
 - **Backend**:

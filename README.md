@@ -10,11 +10,7 @@ I'm a **Full-Stack Developer** with expertise in building scalable and user-frie
 ## Skills
 
 - **Frontend**:
-  - ![React](https://img.shields.io/badge/-React-blue)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-orange)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-blue)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-  - ![React Native](https://img.shields.io/badge/-React%20Native-blue)
+  - ![React](https://img.shields.io/badge/-React-blue)  ![HTML5](https://img.shields.io/badge/-HTML5-orange)  ![CSS3](https://img.shields.io/badge/-CSS3-blue)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![React Native](https://img.shields.io/badge/-React%20Native-blue)
 
 - **Backend**:
   - ![Node.js](https://img.shields.io/badge/-Node.js-green)

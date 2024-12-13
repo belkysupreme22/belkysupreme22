@@ -13,19 +13,13 @@ I'm a **Full-Stack Developer** with expertise in building scalable and user-frie
   - ![React](https://img.shields.io/badge/-React-blue)  ![HTML5](https://img.shields.io/badge/-HTML5-orange)  ![CSS3](https://img.shields.io/badge/-CSS3-blue)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![React Native](https://img.shields.io/badge/-React%20Native-blue)
 
 - **Backend**:
-  - ![Node.js](https://img.shields.io/badge/-Node.js-green)
-  - ![Express](https://img.shields.io/badge/-Express-yellow)
-  - ![Python](https://img.shields.io/badge/-Python-blue)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)
-  - ![Java](https://img.shields.io/badge/-Java-red)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-green)  ![Express](https://img.shields.io/badge/-Express-yellow)  ![Python](https://img.shields.io/badge/-Python-blue)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)  ![Java](https://img.shields.io/badge/-Java-red)
 
 - **Database**:
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
 
 - **Version Control**:
-  - ![Git](https://img.shields.io/badge/-Git-orange)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-black)
+  ![Git](https://img.shields.io/badge/-Git-orange)  ![GitHub](https://img.shields.io/badge/-GitHub-black)
 
 - **APIs**:
   - ![REST](https://img.shields.io/badge/-REST-red)

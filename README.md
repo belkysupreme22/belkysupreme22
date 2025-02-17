@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Full-Stack Developer** with expertise in building scalable and user-friendly web applications. I specialize in technologies like **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Spring Boot**, and **Java**. I'm passionate about clean, efficient code and always eager to collaborate and learn new technologies.
+Software Developer with expertise in building scalable and user-friendly web applications. I specialize in technologies like **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Spring Boot**, and **Java**. I'm passionate about clean, efficient code and always eager to collaborate and learn new technologies.
 
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
 - 💬 Ask me about **full-stack development**, **API design**

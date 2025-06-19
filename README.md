@@ -1,29 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Beamlakfekad Tatek
 
-Software Developer with expertise in building scalable and user-friendly web applications. I specialize in technologies like **React**, **Node.js**, **Express**, **MongoDB**, **Python**, **Spring Boot**, and **Java**. I'm passionate about clean, efficient code and always eager to collaborate and learn new technologies.
+🎯 A **Software Developer** passionate about crafting scalable and user-centric applications. I specialize in **full-stack development** with a strong command of both **frontend** and **backend** technologies. My work is driven by a love for clean, maintainable code and a deep interest in innovative solutions like **machine learning**, **image processing**, and **mobile development**.
 
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative tech solutions**.
-- 💬 Ask me about **full-stack development**, **API design**
-- 📫 How to reach me: [Email](mailto:beamlaktatek@gmail.com)
-- ⚡ Fun fact: I love experimenting with **image processing** and **machine learning** projects.
+---
 
-## Skills
+## 💼 About Me
 
-- **Frontend**:
-  - ![React](https://img.shields.io/badge/-React-blue)  ![HTML5](https://img.shields.io/badge/-HTML5-orange)  ![CSS3](https://img.shields.io/badge/-CSS3-blue)  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  ![React Native](https://img.shields.io/badge/-React%20Native-blue)
+- 🔭 Currently building web and mobile applications using **React**, **Node.js**, **Express**, **MongoDB**, and **Android (Java)**
+- 👯 Open to collaboration on **open-source projects**, **community-driven tech tools**, and **scalable solutions**
+- 📫 Reach me at: [beamlaktatek@gmail.com](mailto:beamlaktatek@gmail.com)
 
-- **Backend**:
-  - ![Node.js](https://img.shields.io/badge/-Node.js-green)  ![Express](https://img.shields.io/badge/-Express-yellow)  ![Python](https://img.shields.io/badge/-Python-blue)  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green)  ![Java](https://img.shields.io/badge/-Java-red)
+---
 
-- **Database**:
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-green) ![MySQL](https://img.shields.io/badge/-MySQL-blue)
+## 🧰 Languages & Tools
 
-- **Version Control**:
-  ![Git](https://img.shields.io/badge/-Git-orange)  ![GitHub](https://img.shields.io/badge/-GitHub-black)
+<p align="left">
+  <!-- Core stack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" style="margin-right:10px;" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" style="margin-right:10px;" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" style="margin-right:10px;" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" style="margin-right:10px;" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" style="margin-right:10px;" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" style="margin-right:10px; background:white; padding:4px; border-radius:6px;" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" style="margin-right:10px;" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" style="margin-right:10px;" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="35" style="margin-right:10px;" alt="Android" />
+  <!-- Expo Icon Added Here -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="35" style="margin-right:10px; background:white; padding:4px; border-radius:6px;" alt="Expo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" style="margin-right:10px;" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" style="margin-right:10px;" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" style="margin-right:10px;" alt="MySQL" />
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" style="margin-right:10px;" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" style="margin-right:10px;" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" style="margin-right:10px;" alt="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" style="margin-right:10px;" alt="VS Code" />
 
-- **APIs**:
-  - ![REST](https://img.shields.io/badge/-REST-red)
+  <!-- Reliable PNGs for external tools -->
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" style="margin-right:10px;" alt="Postman" />
+  <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="35" style="margin-right:10px; background:white; padding:4px; border-radius:6px;" alt="Swagger" />
+</p>
 
-- **Security**:
-  - ![JWT](https://img.shields.io/badge/-JWT-yellow)
+---
 
+## 🔗 Connect with Me
+
+<p align="left">
+  <a href="https://t.me/Bamm_luck" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" style="margin-right:10px; background:white; border-radius:50%; padding:4px;" alt="Telegram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/beamlak/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35" style="margin-right:10px;" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- 🤖 Machine Learning integration into web apps  
+- 📱 Progressive Web Apps and native Android development  
+- 🔐 Best practices for secure API development  
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_

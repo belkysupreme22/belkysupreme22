@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Beamlakfekad Tatek
+# Hi, I'm Beamlakfekad 
 
-🎯 A **Software Developer** passionate about crafting scalable and user-centric applications. I specialize in **full-stack development** with a strong command of both **frontend** and **backend** technologies. My work is driven by a love for clean, maintainable code and a deep interest in innovative solutions like **machine learning**, **image processing**, and **mobile development**.
-
----
-
-## 💼 About Me
-
-- 🔭 Currently building web and mobile applications using **React**, **Node.js**, **Express**, **MongoDB**, and **Android (Java)**
-- 👯 Open to collaboration on **open-source projects**, **community-driven tech tools**, and **scalable solutions**
-- 📫 Reach me at: [beamlaktatek@gmail.com](mailto:beamlaktatek@gmail.com)
+A **Software Developer** passionate about crafting scalable and user-centric applications. I specialize in **full-stack development** for both web and mobile applications. My work is driven by a love for clean, maintainable code and a deep interest in innovative solutions like **machine learning**, **image processing**, and **mobile development**.
 
 ---
 
-## 🧰 Languages & Tools
+## About Me
+
+- Currently building web and mobile applications using **React**, **Node.js**, **Express**, **MongoDB**, and **Android (Java)**
+- Open to collaboration on **open-source projects**, **community-driven tech tools**, and **scalable solutions**
+- Reach me at: [beamlaktatek@gmail.com](mailto:beamlaktatek@gmail.com)
+
+---
+
+##  Languages & Tools
 
 <p align="left">
   <!-- Core stack -->
@@ -36,15 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" style="margin-right:10px;" alt="GitLab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="35" style="margin-right:10px;" alt="Jira" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" style="margin-right:10px;" alt="VS Code" />
-
-  <!-- Reliable PNGs for external tools -->
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="35" style="margin-right:10px;" alt="Postman" />
   <img src="https://avatars.githubusercontent.com/u/7658037?s=200&v=4" width="35" style="margin-right:10px; background:white; padding:4px; border-radius:6px;" alt="Swagger" />
 </p>
 
 ---
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://t.me/Bamm_luck" target="_blank">
@@ -57,11 +55,11 @@
 
 ---
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
-- 🤖 Machine Learning integration into web apps  
-- 📱 Progressive Web Apps and native Android development  
-- 🔐 Best practices for secure API development  
+- Machine Learning integration into web apps  
+- Progressive Web Apps and native Android development  
+- Best practices for secure API development  
 
 ---
 
